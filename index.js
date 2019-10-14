@@ -5,7 +5,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    'model.json';
+    'https://github.com/RuizhiZhang/ADL_HW2/blob/master/model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 3;
