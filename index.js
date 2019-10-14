@@ -4,8 +4,7 @@ CLASSES = {
   2: 'Low Memorial'
 };
 
-const MODEL_PATH =
-    'https://github.com/RuizhiZhang/ADL_HW2/blob/master/model.json';
+const MODEL_PATH = 'https://ruizhizhang.github.io/ADL_HW2/model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 3;
