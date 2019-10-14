@@ -24,10 +24,7 @@ const demo = async () => {
   status('');
 
   // Make a prediction through the locally hosted cat.jpg.
-  var img = document.createElement("img");
-  img.src = "low.jpg";
-  img.setAttribute("id", "c");
-  const catElement = document.getElementById("cat");
+  const catElement = document.getElementById('cat');
   if (catElement.complete && catElement.naturalHeight !== 0) {
     predict(catElement);
     catElement.style.display = '';
