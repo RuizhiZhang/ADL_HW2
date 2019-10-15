@@ -1,6 +1,6 @@
 # Columbia University Landmarks Image Recognition 
 
-- Earl Hall, Law School, Low Memorial Library
+<Earl Hall, Law School, Low Memorial Library>
 
 Check out following url:
 
